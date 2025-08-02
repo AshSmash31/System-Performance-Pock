@@ -2,10 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>PKWidgetVersion</key>
+	<string>1.0</string>
+	<key>PKWidgetIdentifier</key>
+	<string>com.ash31.SystemPerformance</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>NSPrincipalClass</key>
-	<string>HelloWorld.helloWorldWidget</string>
+	<string>helloWorldWidget</string>
 	<key>PKWidgetAuthor</key>
 	<string>Akshat Nair</string>
 </dict>
